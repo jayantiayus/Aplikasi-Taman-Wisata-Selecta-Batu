@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dd3333</color>
+    <color name="colorPrimaryDark">#d11616</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="pink">#ED5565</color>
+    <color name="pinkTua">#DA4453</color>
+    <color name="oren">#FC6E51</color>
+    <color name="orenTua">#E9573F</color>
+    <color name="kuning">#FFCE54</color>
+    <color name="kuningTua">#F68B42</color>
+    <color name="ijo">#A0D468</color>
+    <color name="ijoTua">#8CC152</color>
+    <color name="biru">#509CEC</color>
+    <color name="biruTua">#4A89DC</color>
+    <color name="ungu">#AC92EC</color>
+    <color name="unguTua">#967ADC</color>
+    <color name="colorMint">#48CFAD</color>
+    <color name="colorMintDark">#37BC9B</color>
+    <color name="colorAqua">#4FC1E9</color>
+    <color name="colorAquaDark">#3BAFDA</color>
+    <color name="pinkMuda">#EC87C0</color>
+    <color name="pinkMudaTua">#D770AD</color>
+    <color name="black">#000</color>
+    <color name="blackmuda">#ef000000</color>
+    <color name="bg">#ffffff</color>
+    <color name="bg2">#e4f5de</color>
+    <color name="abu">#a9a9a9</color>
+
+</resources>

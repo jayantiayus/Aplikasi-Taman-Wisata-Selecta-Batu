@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TamanWisataSelecta</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="harga_tiket">HARGA TIKET MASUK\nSenin - Minggu Rp. 35.000\nTermasuk Weekend dan Hari Libur Nasional)</string>
+    <string name="alamat">ALAMAT\nHJl. Raya Selecta 1 Kota Wisata Batu Malang Jawa Timur Indonesia - 0341 591025.</string>
+    <string name="sejarah">Selecta didirikan oleh seorang warga negara Belanda pada sekitar tahun 1930-an.\nSetelah mengalami kerusakan pada jaman Revolusi, pada tahun 1950 dibangun\nkembali oleh 47 tokoh masyarakat yang dikenal sabagai pendiri Selecta.\n\n
+    Selecta sudah dikenal sejak dahulu, baik oleh wisatawan Nusantara maupun\nmancanegara karena keindahan alamnya dengan udara pegunungan yang\nsejuk dan segar yang dapat membuahkan inspirasi dan mengukir kenangan\nbagi setiap pengunjungnya."
+    </string>
+    <string name="visimisi">Kami Senantiasa memberikan pelayanan terbaik kepada anda, dengan senyuman kami siap melayani anda.</string>
+    <string name="kontak">\nTaman Wisata : 0341 592379\nHotel Reservation : 0341 591025\nFax : 0341 592369</string>
+    <string name="garis">\n--------------------------------------------------------------------------------</string>
+    <string name="hrg_pribadi">Senin - Minggu Rp. 35.000 \n (Termasuk Weekend dan Hari Libur Nasional)</string>
+    <string name="hrg_rombongan">Rp. 25.000 per-orang\n (Untuk rombongan yang lebih dari 25 orang)</string>
+    <string name="jambuka">Taman rekreasi Selecta dibuka setiap hari mulai pukul 06.00 hingga pukul 18.00 wib</string>
+
+</resources>
